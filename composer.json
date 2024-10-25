@@ -1,0 +1,13 @@
+{
+    "name": "imobiliaria/site",
+    "description": "Site de Imobiliaria",
+    "authors": [
+        {
+            "name": "Flavio Hayashida",
+            "email": "gao@emater.tche.br"
+        }
+    ],
+    "require": {
+        "google/recaptcha": "^1.2"
+    }
+}
